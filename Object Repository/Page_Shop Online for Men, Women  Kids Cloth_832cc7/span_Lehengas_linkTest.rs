@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Lehengas_linkTest</name>
+   <tag></tag>
+   <elementGuidId>7a76d232-4df0-4594-b50a-8abb0c21a2e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='category2Data']/div/div/div/p[5]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#category2Data > div.leftData.colDataBlk > div.colDataSection.noBorder > div.colDataInnerBlk > p:nth-of-type(5) > a.rightMenuLink.noHasTagWidth.dp-widget-link.visibleRgtBlkLnk > span.linkTest</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Salwar Suits&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>25291fe5-b071-4a7a-8e1c-7de285d07283</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>linkTest</value>
+      <webElementGuid>4feb7d69-b808-4500-bb74-84465c5b3bbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Salwar Suits</value>
+      <webElementGuid>d03379b4-352d-4b53-a357-f0641b99234c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;category2Data&quot;)/div[@class=&quot;leftData colDataBlk&quot;]/div[@class=&quot;colDataSection noBorder&quot;]/div[@class=&quot;colDataInnerBlk&quot;]/p[5]/a[@class=&quot;rightMenuLink noHasTagWidth dp-widget-link visibleRgtBlkLnk&quot;]/span[@class=&quot;linkTest&quot;]</value>
+      <webElementGuid>f33bf834-d35b-45a1-84f8-3fcc60e0aaee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='category2Data']/div/div/div/p[5]/a/span</value>
+      <webElementGuid>a616cf43-a8d1-4fe8-a902-8636c3957b48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lehengas'])[1]/following::span[1]</value>
+      <webElementGuid>fd7a0b75-2717-4390-a229-8a5a551d3eb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kurtas &amp; Kurtis'])[1]/following::span[2]</value>
+      <webElementGuid>ef281ec4-6fc0-4834-8e8e-66a508e3eee2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ethnic Bottomwear'])[1]/preceding::span[1]</value>
+      <webElementGuid>991e9a52-e65e-44b0-96ef-ad6d859aaf67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saree Blouses'])[1]/preceding::span[2]</value>
+      <webElementGuid>46ca3b60-5b10-4a82-aeee-21b8901835ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Salwar Suits']/parent::*</value>
+      <webElementGuid>baf11d13-f3ec-47cd-9722-e3bbf027883b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div/div/div/p[5]/a/span</value>
+      <webElementGuid>ce54cc99-0397-4f10-89f8-dd8cc280f12c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Salwar Suits' or . = 'Salwar Suits')]</value>
+      <webElementGuid>f30edbe9-bd18-44e0-b8c5-d7cc4e811e55</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

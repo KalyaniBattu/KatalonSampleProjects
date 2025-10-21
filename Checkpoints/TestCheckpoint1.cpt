@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>TestCheckpoint1</name>
+   <tag></tag>
+   <excel-source-info>
+      <is-from-test-data>false</is-from-test-data>
+      <source-url>C:\Users\Admin\Desktop\TestDataKatalon.xlsx</source-url>
+      <source-type>ExcelFile</source-type>
+      <sheet-name-or-separator>Sheet1</sheet-name-or-separator>
+      <is-using-relative-path>false</is-using-relative-path>
+      <is-using-first-row-as-header>true</is-using-first-row-as-header>
+   </excel-source-info>
+   <taken-date>2025-10-13T16:46:38.986+05:30</taken-date>
+   <column-names>
+      <column-name>Username</column-name>
+      <column-name>Password</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "standard_user",
+      "checked": true
+    },
+    {
+      "value": "secret_sauce",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "locked_out_user",
+      "checked": true
+    },
+    {
+      "value": "secret_sauce",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "problem_user",
+      "checked": false
+    },
+    {
+      "value": "secret_sauce",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "performance_glitch_user",
+      "checked": false
+    },
+    {
+      "value": "secret_sauce1",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "error_user",
+      "checked": false
+    },
+    {
+      "value": "secret_sauce2",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "visual_user",
+      "checked": false
+    },
+    {
+      "value": "secret_sauce",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

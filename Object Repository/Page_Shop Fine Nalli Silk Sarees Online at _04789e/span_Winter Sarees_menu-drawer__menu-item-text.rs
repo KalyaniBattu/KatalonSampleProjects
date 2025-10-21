@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Winter Sarees_menu-drawer__menu-item-text</name>
+   <tag></tag>
+   <elementGuidId>ee8d01f8-dfd0-46ed-ad9e-d12ca6d48c7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='HeaderDrawer-nalli-exclusive']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#HeaderDrawer-nalli-exclusive > span.menu-drawer__menu-item-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Nalli Exclusive&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>34bbfb2d-6602-40e1-8f13-c95be5e6051f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-drawer__menu-item-text</value>
+      <webElementGuid>1cae7f95-b116-4cd4-b2ec-96084e74305b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nalli Exclusive</value>
+      <webElementGuid>48ccb06b-7e4f-4837-904f-6ed42b429f42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Details-menu-drawer-nalli-exclusive&quot;)/summary[@id=&quot;HeaderDrawer-nalli-exclusive&quot;]/a[@id=&quot;HeaderDrawer-nalli-exclusive&quot;]/span[@class=&quot;menu-drawer__menu-item-text&quot;]</value>
+      <webElementGuid>dbba7b02-bea9-41fa-a100-6ec00af8fbc0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='HeaderDrawer-nalli-exclusive']/span</value>
+      <webElementGuid>f2598f7c-49c9-4b60-8050-b89b19aeb87e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Featured'])[1]/preceding::span[2]</value>
+      <webElementGuid>49d35eb8-3344-4890-9860-986c89c9c9d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nalli Exclusive']/parent::*</value>
+      <webElementGuid>72bfd6f9-4a61-41e2-868f-5802bcd794cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/accordion-custom/details/summary/a/span</value>
+      <webElementGuid>23f6d92f-d9d6-4b54-b00a-0d14edfb252d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Nalli Exclusive' or . = 'Nalli Exclusive')]</value>
+      <webElementGuid>66dbba1b-a3cb-4798-8cff-a1331c4baf3f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

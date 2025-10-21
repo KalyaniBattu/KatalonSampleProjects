@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Safari Select_tabs-nav__item heading_7ec3a6</name>
+   <tag></tag>
+   <elementGuidId>c0ac33b7-12f3-4741-9fc0-8086c2e37ee2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Luggage Trolleys&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>43f96f02-f7cf-47d6-92de-663fe986be45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e2a9dab1-a5f6-4b8b-96b0-10333eb2347a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tabs-nav__item heading heading--small</value>
+      <webElementGuid>3d8a03ed-9a34-442b-b6c3-a7f81a94cbb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>99b70f9c-a978-447f-a38e-02dd00d5618f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-controls</name>
+      <type>Main</type>
+      <value>block-template--19416126095577__featured_collections_rHm9XB-collection_z4UzGU</value>
+      <webElementGuid>ea447471-1620-4a9b-bfa5-63f17a8e0c52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Luggage Trolleys</value>
+      <webElementGuid>f0925de3-79fb-4ad3-a573-86bd2162bdb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shopify-section-template--19416126095577__featured_collections_rHm9XB&quot;)/section[@class=&quot;section&quot;]/div[@class=&quot;section__color-wrapper&quot;]/div[@class=&quot;container&quot;]/header[@class=&quot;section__header section__header--tight&quot;]/tabs-nav[@class=&quot;tabs-nav tabs-nav--center tabs-nav--edge2edge&quot;]/scrollable-content[@class=&quot;tabs-nav__scroller hide-scrollbar is-scrollable&quot;]/div[@class=&quot;tabs-nav__scroller-inner&quot;]/div[@class=&quot;tabs-nav__item-list&quot;]/button[@class=&quot;tabs-nav__item heading heading--small&quot;]</value>
+      <webElementGuid>a814e742-cb95-4474-ae9b-c37038cda5a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>686f0489-b831-4de0-9ce3-241597ed88d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='shopify-section-template--19416126095577__featured_collections_rHm9XB']/section/div/div/header/tabs-nav/scrollable-content/div/div/button[2]</value>
+      <webElementGuid>7fc10fee-8388-456c-ba47-df19c32c8523</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Safari Select'])[1]/following::button[1]</value>
+      <webElementGuid>e916dc22-2cea-4a3a-a7ae-0237ea8b617a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Premium Travel Bags'])[1]/following::button[2]</value>
+      <webElementGuid>17a490ac-2844-4062-b24b-2c3066638cb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Combos - Save More'])[1]/preceding::button[1]</value>
+      <webElementGuid>39b5f8f2-816a-4d0a-b847-0d05e14ec6d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Backpacks for Travel &amp; Daily Commute'])[1]/preceding::button[2]</value>
+      <webElementGuid>aa098ebb-47f9-45a2-9d25-c6c3a1a8023f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Luggage Trolleys']/parent::*</value>
+      <webElementGuid>ade31c7f-54e7-494a-aba3-8292133e4dcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button[2]</value>
+      <webElementGuid>e35e2d4d-c4e6-46aa-b9e2-5222a2c0f93e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Luggage Trolleys' or . = 'Luggage Trolleys')]</value>
+      <webElementGuid>8039fd31-8add-4937-96c8-5540a29cf96d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

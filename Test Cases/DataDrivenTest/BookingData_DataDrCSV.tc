@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BookingData_DataDrCSV</name>
+   <tag>Func</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6d0daa24-303f-471e-8bdb-693f4dd108d2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>37748e9f-ddd0-497f-a3e2-9d008be7d508</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ea555b9b-d1e7-443c-98fd-2334c345f5ed</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Kalyani'</defaultValue>
+      <description></description>
+      <id>37748e9f-ddd0-497f-a3e2-9d008be7d508</id>
+      <masked>false</masked>
+      <name>CusName</name>
+   </variable>
+   <variable>
+      <defaultValue>'B'</defaultValue>
+      <description></description>
+      <id>ea555b9b-d1e7-443c-98fd-2334c345f5ed</id>
+      <masked>false</masked>
+      <name>CusLastname</name>
+   </variable>
+</TestCaseEntity>

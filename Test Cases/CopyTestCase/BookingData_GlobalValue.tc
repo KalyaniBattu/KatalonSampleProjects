@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BookingData_GlobalValue</name>
+   <tag>Func</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a8845ca9-9d28-4c0a-8ec2-0c521d2fd23c</testCaseGuid>
+</TestCaseEntity>

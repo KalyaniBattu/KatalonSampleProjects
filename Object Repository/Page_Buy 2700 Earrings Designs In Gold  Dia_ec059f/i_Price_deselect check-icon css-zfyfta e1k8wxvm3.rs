@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Price_deselect check-icon css-zfyfta e1k8wxvm3</name>
+   <tag></tag>
+   <elementGuidId>b7ccf317-7808-424c-9609-71a7cd0ae62e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='containerDiv']/div[2]/div/div/div/label/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.deselect.check-icon.css-zfyfta.e1k8wxvm3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>label >> internal:has-text=&quot;₹10,001 - ₹15,000 (200)&quot;i >> i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>12cd2bf6-50c5-4a3a-9fb1-afe9247e1ea4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>deselect check-icon css-zfyfta e1k8wxvm3</value>
+      <webElementGuid>2ae8f7ef-9077-46ba-9fd7-d61fd4264eae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;containerDiv&quot;)/div[@class=&quot;css-123pwjk e1d5b8qq5&quot;]/div[@class=&quot;css-17qwvn9 e1d5b8qq6&quot;]/div[@class=&quot;css-1qenfks e1d5b8qq7&quot;]/div[@class=&quot;e1d5b8qq2 css-1enqkmu e1k8wxvm0&quot;]/label[@class=&quot;checkbox-label css-1mn6n0t e1k8wxvm1&quot;]/i[@class=&quot;deselect check-icon css-zfyfta e1k8wxvm3&quot;]</value>
+      <webElementGuid>93e0c9b1-b4b9-47fa-9eab-b0433bd19258</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='containerDiv']/div[2]/div/div/div/label/i</value>
+      <webElementGuid>28d1389e-a910-4bf2-970a-a398b0153992</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>bf4d02ec-7562-4513-b354-1273f83be410</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

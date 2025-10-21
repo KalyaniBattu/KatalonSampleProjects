@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p__active css-8jp2rm eug49n610</name>
+   <tag></tag>
+   <elementGuidId>5c222b82-8388-4232-a79b-2a18ac457b5d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='NavItem-1']/a/div[2]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.active.css-8jp2rm.eug49n610</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Earrings&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>7de358b9-2933-4689-82b3-626e41e4e994</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>active css-8jp2rm eug49n610</value>
+      <webElementGuid>02873acf-424f-4fff-bfea-21bfe5e83630</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Earrings</value>
+      <webElementGuid>670edca4-d78a-4266-b3a4-46a1225eb056</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;NavItem-1&quot;)/a[@class=&quot;css-1ey1cbx eug49n65&quot;]/div[@class=&quot;css-wf8g0t eug49n68&quot;]/div[@class=&quot;css-ycongu eug49n69&quot;]/p[@class=&quot;active css-8jp2rm eug49n610&quot;]</value>
+      <webElementGuid>78c87581-5af3-4f06-ac18-f669632ce301</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='NavItem-1']/a/div[2]/div/p</value>
+      <webElementGuid>624075d5-ca6a-4c13-a19f-21d298aec878</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[1]/following::p[3]</value>
+      <webElementGuid>4b582e15-0167-4152-a17f-fbb5c09c8553</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Earrings'])[2]/preceding::p[2]</value>
+      <webElementGuid>958e7ee5-5514-4e75-bfba-d3d7c8ba761d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Featured'])[1]/preceding::p[2]</value>
+      <webElementGuid>4f42072d-d55e-43e7-ae2a-3aefee720bbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Earrings']/parent::*</value>
+      <webElementGuid>9f7056dc-a348-4d0a-926c-54ad6b54cf35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/div[2]/div/p</value>
+      <webElementGuid>06707deb-9e90-4ef9-9c01-1c7a5a2ba7f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Earrings' or . = 'Earrings')]</value>
+      <webElementGuid>b991c123-63b0-4684-a287-77866b72680d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

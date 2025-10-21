@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Big Bang Diwali  Electronics store_xTao_348595</name>
+   <tag></tag>
+   <elementGuidId>752b5c39-9af8-4a3c-a7d6-17ff3497d277</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div[3]/div[4]/div/div/a/div/img[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.YzZtjs > div._8z-Twi._4bzjfU > img.xTaogf._3iTqAS</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;BDS BDS&quot;i] >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>48d8883c-5def-4c5e-8662-29653bbc2bb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xTaogf _3iTqAS</value>
+      <webElementGuid>7b966906-bc99-41e8-ba0a-57913adb39dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://rukminim2.flixcart.com/fk-p-flap/50/50/image/f73a401527a95c27.jpg?q=50</value>
+      <webElementGuid>223749bf-a602-4d9f-a3fe-de824bcf3a9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>BDS</value>
+      <webElementGuid>2f3bb48d-89d1-421f-b121-124b3729a43e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;JxFEK3 _48O0EI&quot;]/div[@class=&quot;cPHDOP col-12-12&quot;]/div[@class=&quot;X8l5DD&quot;]/div[@class=&quot;xcFiqU col col-4-12&quot;]/a[@class=&quot;YzZtjs&quot;]/div[@class=&quot;_8z-Twi _4bzjfU&quot;]/img[@class=&quot;xTaogf _3iTqAS&quot;]</value>
+      <webElementGuid>08fa7847-1ee9-47ce-bf6c-76e9095e2dc8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div[3]/div[4]/div/div/a/div/img[2]</value>
+      <webElementGuid>44d42573-3fd9-4825-9381-99b8c5655fac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='BDS'])[4]</value>
+      <webElementGuid>bd011420-9ee7-437f-bd84-8e7d922c41eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/a/div/img[2]</value>
+      <webElementGuid>6053e1ef-b11f-40ae-b509-6317065a249d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://rukminim2.flixcart.com/fk-p-flap/50/50/image/f73a401527a95c27.jpg?q=50' and @alt = 'BDS']</value>
+      <webElementGuid>77ec51c2-44d3-4ea2-b4e4-b7abd2f473c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

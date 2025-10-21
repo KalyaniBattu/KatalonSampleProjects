@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select a speed_ui-selectmenu-icon ui-i_3da000</name>
+   <tag></tag>
+   <elementGuidId>71b9f665-08c7-4f3b-87dd-84ff25570041</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-selectmenu-icon.ui-icon.ui-icon-triangle-1-s</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='speed-button']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=combobox[name=&quot;Medium&quot;i] >> span >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>50302f78-5709-4356-87a3-72c2145b5c4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-selectmenu-icon ui-icon ui-icon-triangle-1-s</value>
+      <webElementGuid>2dc4761c-1c1e-4a53-9a31-b183cd9d4221</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;speed-button&quot;)/span[@class=&quot;ui-selectmenu-icon ui-icon ui-icon-triangle-1-s&quot;]</value>
+      <webElementGuid>cb56b746-c82e-43eb-baf7-65ef84b71fb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Selectmenu  jQuery UI/iframe_Product Selection_demo-frame</value>
+      <webElementGuid>9943c00c-02b1-469e-8f8d-1e7e7e0105b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='speed-button']/span</value>
+      <webElementGuid>50e92eea-c406-48b1-8ff8-c95481ef66e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>97afcea1-e402-4471-974e-9933a06fc4d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

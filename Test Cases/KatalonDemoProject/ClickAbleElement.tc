@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickAbleElement</name>
+   <tag>Func</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1521485f-6005-4570-9c0e-7e5cd82090f2</testCaseGuid>
+</TestCaseEntity>

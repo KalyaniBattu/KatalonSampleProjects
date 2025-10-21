@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Top Categories_catText</name>
+   <tag></tag>
+   <elementGuidId>d27e7a67-15d1-4132-9076-2f66f3549137</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='leftNavMenuRevamp']/div/div[2]/ul/li/a/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.catText</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Men's Fashion&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1e2b1538-900b-4292-b131-54aa2063bc7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>catText</value>
+      <webElementGuid>97812bd3-15a6-47cc-ad03-b680c7b81ed5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Men's Fashion</value>
+      <webElementGuid>7a164552-405f-4614-a71a-76c1e17682ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;leftNavMenuRevamp&quot;)/div[@class=&quot;leftNavWrapperRevamp&quot;]/div[@class=&quot;leftNavigationLeftContainer&quot;]/ul[@class=&quot;nav&quot;]/li[@class=&quot;navlink hoverIn&quot;]/a[@class=&quot;menuLinks leftCategoriesProduct&quot;]/span[@class=&quot;catText&quot;]</value>
+      <webElementGuid>11b2c249-9410-48a4-a86c-d7b251d30256</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='leftNavMenuRevamp']/div/div[2]/ul/li/a/span[2]</value>
+      <webElementGuid>5efb8090-c516-4d8e-907f-608205015bda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top Categories'])[1]/following::span[2]</value>
+      <webElementGuid>8c238923-4156-4aa6-86ef-fc0a9f76d83f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Return form will be sent to your email Id:'])[1]/following::span[2]</value>
+      <webElementGuid>1ae1d15b-050a-4dd7-a3aa-bf0d243da26b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Footwear'])[1]/preceding::span[1]</value>
+      <webElementGuid>084377af-7d73-4639-a70c-70cd81861b5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sports Shoes'])[1]/preceding::span[2]</value>
+      <webElementGuid>325dfa55-0f4e-4b32-a9ce-2de003e22d39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span[2]</value>
+      <webElementGuid>49dc654a-84b4-4d7d-bca6-9069e7fb23cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = concat(&quot;Men&quot; , &quot;'&quot; , &quot;s Fashion&quot;) or . = concat(&quot;Men&quot; , &quot;'&quot; , &quot;s Fashion&quot;))]</value>
+      <webElementGuid>d5ae9c9b-1140-4d36-bcf5-9cb235b5da27</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CheckRadiobutton</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>86b9cab0-fcfb-4c8f-8242-d129fdcbc144</testCaseGuid>
+</TestCaseEntity>

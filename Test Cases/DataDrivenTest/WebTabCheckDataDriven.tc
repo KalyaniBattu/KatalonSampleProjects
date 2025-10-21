@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>WebTabCheckDataDriven</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cf2d2310-100a-43e2-85ed-62b4c55b5390</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4e7359ba-3889-44e2-8511-5529b137aa66</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'home'</defaultValue>
+      <description></description>
+      <id>4e7359ba-3889-44e2-8511-5529b137aa66</id>
+      <masked>false</masked>
+      <name>Tabs</name>
+   </variable>
+</TestCaseEntity>

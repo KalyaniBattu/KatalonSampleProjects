@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>KatalonDemoLogin_selfHealingUsername</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3506dade-d2c9-4b17-be31-4a4618db13a8</testCaseGuid>
+</TestCaseEntity>

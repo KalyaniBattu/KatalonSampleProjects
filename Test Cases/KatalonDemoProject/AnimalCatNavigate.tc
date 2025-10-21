@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AnimalCatNavigate</name>
+   <tag>Func</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b8b0a1e1-7cb2-41bd-91b8-0da4925c8450</testCaseGuid>
+</TestCaseEntity>

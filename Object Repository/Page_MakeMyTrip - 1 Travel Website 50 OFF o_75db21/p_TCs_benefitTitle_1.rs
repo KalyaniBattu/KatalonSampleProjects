@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_TCs_benefitTitle_1</name>
+   <tag></tag>
+   <elementGuidId>de5e0028-21a0-4b1c-84d0-7eeea2b459fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='SW']/div/div[2]/div[2]/div/div/div/div[2]/div/div[3]/ul/li[3]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(3) > div > p.benefitTitle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Get 3X refund, if your waitlisted train doesn’t get confirmed&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>5a118d1d-345e-460c-8ef8-7bdb8bd03896</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>benefitTitle</value>
+      <webElementGuid>f54782fa-a888-4f51-90b3-4a5657716929</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>benefitTitle</value>
+      <webElementGuid>9e7048a0-048c-4cd4-97a9-5b0cf1d487bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get 3X refund, if your waitlisted train doesn’t get confirmed</value>
+      <webElementGuid>7019ef42-56b8-468c-9265-d57da46e15ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SW&quot;)/div[@class=&quot;landingContainer eng&quot;]/div[@class=&quot;headerOuter&quot;]/div[@class=&quot;imageSliderModal modal displayBlock modalLogin dynHeight personal&quot;]/div[@class=&quot;imageSlideContainer&quot;]/div[1]/div[@class=&quot;loginSliderCompWrapper&quot;]/div[2]/div[@class=&quot;sliderItemWrapper active&quot;]/div[@class=&quot;sliderItemContent&quot;]/ul[@class=&quot;sliderItem-benefits&quot;]/li[3]/div[1]/p[@class=&quot;benefitTitle&quot;]</value>
+      <webElementGuid>81e89d2d-68e1-4a8c-87cc-72f8be4c51e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='SW']/div/div[2]/div[2]/div/div/div/div[2]/div/div[3]/ul/li[3]/div/p</value>
+      <webElementGuid>63e7b66d-77e5-40a0-ac9b-c3ef50121932</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='T&amp;Cs'])[1]/following::p[4]</value>
+      <webElementGuid>5c6dc4dd-d181-496a-8ea9-402c92065221</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Agreement'])[1]/following::p[4]</value>
+      <webElementGuid>0b096c9f-a82c-41cd-9340-aa9a165cb08c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Limited time offer - 0 Joining Fee'])[1]/preceding::p[2]</value>
+      <webElementGuid>08e3b1b6-3886-4868-b648-25128a0c91cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VIEW BENEFITS'])[1]/preceding::p[2]</value>
+      <webElementGuid>370b39f6-4338-43fd-875f-2a4906563025</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Get 3X refund, if your waitlisted train doesn’t get confirmed']/parent::*</value>
+      <webElementGuid>00452bd4-8e72-4c9f-aa12-1865a69998fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li[3]/div/p</value>
+      <webElementGuid>86431ad0-a9a0-49c5-86d2-0ff6fe8ab9de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Get 3X refund, if your waitlisted train doesn’t get confirmed' or . = 'Get 3X refund, if your waitlisted train doesn’t get confirmed')]</value>
+      <webElementGuid>799d5e7e-c08d-4829-82e6-9661070a16a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

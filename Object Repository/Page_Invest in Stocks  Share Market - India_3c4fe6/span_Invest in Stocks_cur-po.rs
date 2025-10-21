@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Invest in Stocks_cur-po</name>
+   <tag></tag>
+   <elementGuidId>c725e265-2116-4ea7-b47d-e7eae84d53ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div[2]/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.cur-po</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>span >> internal:has-text=&quot;Stocks&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>78143663-3be7-4926-916a-85335dc89595</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cur-po</value>
+      <webElementGuid>573192fd-40b5-4588-9692-45351547ce6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Stocks</value>
+      <webElementGuid>17285e03-0812-478a-9628-344aabe3b310</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;header2025_headerContainer__b1Cc6 bgHeader&quot;]/div[@class=&quot;row mainDiv width100&quot;]/div[@class=&quot;loggedOut_navContainer__PiNzK absolute-center vspace-between web-align loggedOut_visibilityVisible__eyYJ9&quot;]/div[@class=&quot;absolute-center loggedOut_leftContainer__mRB80&quot;]/div[@class=&quot;absolute-center&quot;]/div[@class=&quot;bodyLargeHeavy contentSecondary flex absolute-center&quot;]/div[@class=&quot;absolute-center loggedOut_navItem__sAJWS contentPrimary&quot;]/span[@class=&quot;cur-po&quot;]</value>
+      <webElementGuid>c59ef675-3bea-4a23-bc2f-2e13cefbfcd6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div[2]/div/div/span</value>
+      <webElementGuid>cee4a937-0fb3-4ad4-8fb9-b82b580f9ff5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invest in Stocks'])[1]/preceding::span[1]</value>
+      <webElementGuid>24ae44aa-1b19-49f2-99fb-b149c2777562</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Intraday'])[1]/preceding::span[2]</value>
+      <webElementGuid>93b16df5-cfdd-4fe1-8fa7-4bc7cc65d0dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Stocks']/parent::*</value>
+      <webElementGuid>62a8c233-343a-4b04-aab2-5a50246084fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/span</value>
+      <webElementGuid>fb5c00c0-4202-4e5e-ab51-b6236a5a019e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Stocks' or . = 'Stocks')]</value>
+      <webElementGuid>1144764d-1655-40ee-91bc-d79333645fb8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

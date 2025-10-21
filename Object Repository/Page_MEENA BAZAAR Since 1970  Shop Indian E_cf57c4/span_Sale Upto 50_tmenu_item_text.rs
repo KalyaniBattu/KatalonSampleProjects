@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sale Upto 50_tmenu_item_text</name>
+   <tag></tag>
+   <elementGuidId>51e10297-d3c1-4f7a-a0ba-0aed0e94637a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='SiteHeader']/div/div[2]/div/nav/ul/li[3]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Ready to Ship&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4a4e6ccf-49d5-4873-8387-0d6c0d3c0dcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tmenu_item_text</value>
+      <webElementGuid>031c3d86-09a6-4700-b926-521491a299e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ready to Ship</value>
+      <webElementGuid>29485206-af06-4ab8-8c24-d6e189985d09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SiteHeader&quot;)/div[@class=&quot;page-width&quot;]/div[@class=&quot;text-center&quot;]/div[@class=&quot;tmenu_wrapper tmenu--fullwidth tmenu--wrap&quot;]/nav[@class=&quot;tmenu_navbar tmenu_app tmenu_initialized tmenu_transition_fade tmenu_alignment_center tmenu_skin_undefined tmenu_app--horizontal&quot;]/ul[@class=&quot;tmenu_nav&quot;]/li[@class=&quot;tmenu_item tmenu_item--root tmenu_item_level_0 tmenu_item_submenu_type_flyout&quot;]/a[@class=&quot;tmenu_item_link&quot;]/span[@class=&quot;tmenu_item_text&quot;]</value>
+      <webElementGuid>f0e8c25b-3006-4544-9c6f-bb2817acaad8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='SiteHeader']/div/div[2]/div/nav/ul/li[3]/a/span</value>
+      <webElementGuid>705f1e85-f787-45c0-8e66-ded88cb9277d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sale Upto 50%'])[2]/following::span[1]</value>
+      <webElementGuid>106a8177-59a5-40ac-99bc-892c4adc08fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Best Sellers'])[2]/preceding::span[1]</value>
+      <webElementGuid>79120325-ba78-4038-a5ab-156008b46779</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Festive Edit'])[2]/preceding::span[3]</value>
+      <webElementGuid>587c28a9-b920-4047-a0c6-bf7076401e7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/ul/li[3]/a/span</value>
+      <webElementGuid>514a0fe4-647b-4460-9d9b-698c8677f580</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Ready to Ship' or . = 'Ready to Ship')]</value>
+      <webElementGuid>b87c6771-13fe-46b9-b7ac-8f2a5a5e26c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

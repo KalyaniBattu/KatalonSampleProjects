@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Try our new App_cc-header-brands__img</name>
+   <tag></tag>
+   <elementGuidId>6acd74b5-886a-4f6d-8810-629761082f97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Hush Puppies']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Hush Puppies&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>cf6d6999-7ed8-4d5a-90df-86c6fb84190f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cc-header-brands__img</value>
+      <webElementGuid>c96f0dea-eedc-4e22-8d28-68c1841b9259</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://www.bata.com/on/demandware.static/-/Sites-bata-in-Library/default/dw8e14dc33/header-brands/HushPuppies-logo.svg</value>
+      <webElementGuid>295af51a-d1c4-4584-8d38-082ead2fb267</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Hush Puppies</value>
+      <webElementGuid>d7691364-d22d-4a07-b9f5-9029654ecd6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;cc-mobile&quot;]/span[@class=&quot;page-meta-data&quot;]/div[@class=&quot;cc-main-wrapper page get-app-active&quot;]/div[@class=&quot;cc-header--banner&quot;]/div[@class=&quot;cc-header-brands&quot;]/a[@class=&quot;cc-header-brands__link&quot;]/img[@class=&quot;cc-header-brands__img&quot;]</value>
+      <webElementGuid>554fc6b5-3458-4e40-8a5a-86166e1c6a85</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Hush Puppies']</value>
+      <webElementGuid>46adeb3d-79a2-4421-907c-ec752d4b5e70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/img</value>
+      <webElementGuid>df042315-b056-4b52-ab34-fdb45b46239c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://www.bata.com/on/demandware.static/-/Sites-bata-in-Library/default/dw8e14dc33/header-brands/HushPuppies-logo.svg' and @alt = 'Hush Puppies']</value>
+      <webElementGuid>9b5461ca-76bf-436b-9d86-8d58240dd5ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

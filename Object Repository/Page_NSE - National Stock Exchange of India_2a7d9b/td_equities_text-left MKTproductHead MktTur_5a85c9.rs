@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_equities_text-left MKTproductHead MktTur_5a85c9</name>
+   <tag></tag>
+   <elementGuidId>3cea2357-05db-4694-b1f6-ac20a4401d7e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='layout']/div[3]/div/div/div[2]/div/div[2]/table/tbody/tr[2]/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.text-left.MKTproductHead.MktTurnovrSummary_tblbr__FoPzb</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Equity&quot;i] >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>77590f48-2618-4279-92aa-e1d21d9d43e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-left MKTproductHead MktTurnovrSummary_tblbr__FoPzb </value>
+      <webElementGuid>92f9a3bf-b96e-4eb7-8f3d-d46812af4165</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Equity</value>
+      <webElementGuid>44fb7444-264b-4884-abb7-53123c4f9b19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout&quot;)/div[@class=&quot;fade modal show&quot;]/div[@class=&quot;modal-dialog MktTurnovrSummary_MarketTurnoverModal__8m5Pr mkt-summary modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;MktTurnovrSummary_MarketTurnoverTable__gIClj market-turnover-summ nse-table-responsive  align-items-center table-responsive&quot;]/table[@class=&quot;table align-middle&quot;]/tbody[1]/tr[2]/td[@class=&quot;text-left MKTproductHead MktTurnovrSummary_tblbr__FoPzb&quot;]</value>
+      <webElementGuid>e77f93ee-fabd-426c-a034-8dc4c24b7ac0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='layout']/div[3]/div/div/div[2]/div/div[2]/table/tbody/tr[2]/td</value>
+      <webElementGuid>04d49809-0d77-431b-bdb5-74a521a1bf59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='equities'])[1]/following::td[2]</value>
+      <webElementGuid>8d6b78b8-f8a5-469b-9e0c-a62e2e42e09e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Contracts)'])[3]/following::td[3]</value>
+      <webElementGuid>44c86862-177d-4347-ab0b-91d7c97a3e0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[6]/preceding::td[3]</value>
+      <webElementGuid>910ce860-9930-44e4-a6bf-774fb386cf56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[7]/preceding::td[10]</value>
+      <webElementGuid>6d59ed82-70ed-4914-834b-1b400217a567</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/div[2]/table/tbody/tr[2]/td</value>
+      <webElementGuid>5d086b08-5e72-4341-b2f1-31d557e04159</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Equity' or . = 'Equity')]</value>
+      <webElementGuid>f0e240af-5296-43fc-a193-08cbdc1123ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

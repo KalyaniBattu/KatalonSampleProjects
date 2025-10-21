@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Festival Tour_menu-link</name>
+   <tag></tag>
+   <elementGuidId>b7d59638-e46f-4fa0-b715-4af1e5ee3a6f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-11861']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-11861 > a.menu-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Pilgrimage India&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3a0539e3-9c77-4b44-a1b0-fff7cf5e1081</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://indiatravel.com/pilgrimage-places-in-india/</value>
+      <webElementGuid>ffe540b1-d12a-46cb-93c4-d6a7f737bd77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-link</value>
+      <webElementGuid>6393482a-c35f-4f81-a64e-3c35709e2adc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilgrimage India</value>
+      <webElementGuid>619831d0-f327-4bed-ad14-aeb9c3e74de1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-11861&quot;)/a[@class=&quot;menu-link&quot;]</value>
+      <webElementGuid>3e32387c-c2b3-47d9-a6d1-b4995fd063ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-11861']/a</value>
+      <webElementGuid>ec1af9b3-22ad-43ce-9e01-ea9a4b72beb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Pilgrimage India')]</value>
+      <webElementGuid>30300002-a443-44bb-86dd-c527d3a94d56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Festival Tour'])[1]/following::a[1]</value>
+      <webElementGuid>0ed15440-19f9-4942-b3da-0713a1c9825f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Packages'])[1]/following::a[2]</value>
+      <webElementGuid>35825826-de30-420d-8eec-94ee13eed656</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu Toggle'])[1]/preceding::a[2]</value>
+      <webElementGuid>8121073c-e601-46d9-846e-a92893bbb8e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Luxury Trains'])[1]/preceding::a[2]</value>
+      <webElementGuid>9666af52-1386-4f08-a3ef-ec95dca0e681</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pilgrimage India']/parent::*</value>
+      <webElementGuid>7675358b-d3d1-4cee-932d-6c2d9804b816</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://indiatravel.com/pilgrimage-places-in-india/')]</value>
+      <webElementGuid>5ae93c1c-993c-4181-8fce-e00960914cb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a</value>
+      <webElementGuid>f5431b31-bc98-4376-a2c8-91ff46928aad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://indiatravel.com/pilgrimage-places-in-india/' and (text() = 'Pilgrimage India' or . = 'Pilgrimage India')]</value>
+      <webElementGuid>26ac74dd-c5ae-4dd8-8ca7-25629c36b609</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

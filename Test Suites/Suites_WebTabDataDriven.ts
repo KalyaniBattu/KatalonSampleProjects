@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Suites_WebTabDataDriven</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>45ed3cca-6b8b-4833-bbc6-d17a47e595a2</testSuiteGuid>
+   <testCaseLink>
+      <guid>68408cb8-7367-4e78-9564-0650e2126291</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>'home'</defaultValue>
+         <description></description>
+         <id>4e7359ba-3889-44e2-8511-5529b137aa66</id>
+         <masked>false</masked>
+         <name>Tabs</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/DataDrivenTest/WebTabCheckDataDriven</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>227615ec-2654-411e-b611-656f3d3c1544</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/WebTabDD</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>227615ec-2654-411e-b611-656f3d3c1544</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Tabs</value>
+         <variableId>4e7359ba-3889-44e2-8511-5529b137aa66</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

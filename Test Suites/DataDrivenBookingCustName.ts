@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>DataDrivenBookingCustName</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>6a73a02f-8b86-4ad3-885f-c5b6f6db8920</testSuiteGuid>
+   <testCaseLink>
+      <guid>df3be603-a221-48e7-bb3b-13b1dbb6cc12</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DataDrivenTest/BookingData_DataDrCSV</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>b2c5c1f6-f0d0-4ec4-b7ad-95a619c34c3f</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/BCusData</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>b2c5c1f6-f0d0-4ec4-b7ad-95a619c34c3f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CusName</value>
+         <variableId>37748e9f-ddd0-497f-a3e2-9d008be7d508</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b2c5c1f6-f0d0-4ec4-b7ad-95a619c34c3f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CusLastname</value>
+         <variableId>ea555b9b-d1e7-443c-98fd-2334c345f5ed</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

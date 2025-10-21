@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Invest in Stocks_bodyLargeHeavy content_b2d961</name>
+   <tag></tag>
+   <elementGuidId>7b59d7d1-e612-4f90-9feb-9665bd3bc9b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div[2]/div/div[2]/div/div[2]/a/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.bodyLargeHeavy.contentPrimary.backgroundTransparentHover.absolute-center.dropdownUI_dropdownSection2Item__19tvX > div.flex.flex-column > div.bodyLargeHeavy.contentPrimary.dropdownUI_dropdownHeading__M7ygE</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Intraday Monitor top intraday performers in real time&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bdce85e6-8eb4-47e6-ae0e-eeb72d4be105</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bodyLargeHeavy contentPrimary dropdownUI_dropdownHeading__M7ygE</value>
+      <webElementGuid>9a32b99d-7a8e-4872-bd0b-e43f95b30356</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Intraday</value>
+      <webElementGuid>667fe339-93d9-4567-8200-8e4dd7ddcc8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;header2025_headerContainer__b1Cc6 bgHeader&quot;]/div[@class=&quot;row mainDiv width100&quot;]/div[@class=&quot;loggedOut_navContainer__PiNzK absolute-center vspace-between web-align loggedOut_visibilityVisible__eyYJ9&quot;]/div[@class=&quot;absolute-center loggedOut_leftContainer__mRB80&quot;]/div[@class=&quot;absolute-center&quot;]/div[@class=&quot;bodyLargeHeavy contentSecondary flex absolute-center&quot;]/div[@class=&quot;loggedOut_hoverDiv__wVy4J borderPrimary&quot;]/div[@class=&quot;dropdownUI_dropdownContainer____P6j flex&quot;]/div[@class=&quot;dropdownUI_dropdownSection2__1dJLY false flex flex-column&quot;]/a[@class=&quot;bodyLargeHeavy contentPrimary backgroundTransparentHover absolute-center dropdownUI_dropdownSection2Item__19tvX&quot;]/div[@class=&quot;flex flex-column&quot;]/div[@class=&quot;bodyLargeHeavy contentPrimary dropdownUI_dropdownHeading__M7ygE&quot;]</value>
+      <webElementGuid>894f0210-77e2-4de2-9f69-232b02bc739b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div[2]/div/div[2]/div/div[2]/a/div/div</value>
+      <webElementGuid>e568e0d8-8a52-4bc6-890d-ec88016d7e35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invest in Stocks'])[1]/following::div[5]</value>
+      <webElementGuid>b7e9f97c-fd89-4406-b8b9-47770999c3e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stocks'])[1]/following::div[11]</value>
+      <webElementGuid>e8f5b250-1723-42a0-8e2b-053a4d27f7bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monitor top intraday performers in real time'])[1]/preceding::div[1]</value>
+      <webElementGuid>91210d29-78b6-478f-801b-5b3870f09c17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ETFs'])[1]/preceding::div[2]</value>
+      <webElementGuid>c059ce89-e1be-45a2-a376-525719cae046</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Intraday']/parent::*</value>
+      <webElementGuid>6641f9fa-ddb8-4a6f-ad72-22d69e3d367f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/div/div</value>
+      <webElementGuid>f49c36eb-e11d-4e0b-bceb-40b319ff654a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Intraday' or . = 'Intraday')]</value>
+      <webElementGuid>5818929f-be46-4956-adf7-2e4c3ccf2e8f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GlobalVarLoginProcess</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e8b7b3a4-9c10-419f-9d92-1b0a802df480</testCaseGuid>
+</TestCaseEntity>

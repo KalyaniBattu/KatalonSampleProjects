@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Best Stock Market Courses in India_uagb_7f8bcb</name>
+   <tag></tag>
+   <elementGuidId>0edaaf87-cdb2-4b88-ae35-8d94b9fc3089</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-3678']/div/section/div/div/div/section/div[2]/div[4]/div/div/div/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.uagb-button__link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Get Assistance&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fd25b2fa-ee97-46da-b2dc-1818a2cbcf0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>uagb-button__link</value>
+      <webElementGuid>4cfd74f7-fa78-4efa-8354-4ecde52a73a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get Assistance</value>
+      <webElementGuid>5bccdbf7-8d30-44af-85f3-ad9b868ec174</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-3678&quot;)/div[@class=&quot;entry-content clear&quot;]/section[@class=&quot;wp-block-uagb-container uagb-block-1eec5f97 alignfull uagb-is-root-container&quot;]/div[@class=&quot;uagb-container-inner-blocks-wrap&quot;]/div[@class=&quot;wp-block-columns has-2-columns is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex&quot;]/div[@class=&quot;wp-block-column is-layout-flow wp-block-column-is-layout-flow&quot;]/section[@class=&quot;wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-70216ba7-8fdf-4222-97ca-95ea6bf24494&quot;]/div[@class=&quot;uagb-section__inner-wrap&quot;]/div[@class=&quot;wp-block-uagb-buttons uagb-buttons__outer-wrap uagb-btn__default-btn uagb-btn-tablet__default-btn uagb-btn-mobile__default-btn uagb-block-6672a589-54f5-454d-8fb9-8a649262ca69&quot;]/div[@class=&quot;uagb-buttons__wrap uagb-buttons-layout-wrap&quot;]/div[@class=&quot;wp-block-uagb-buttons-child uagb-buttons__outer-wrap uagb-block-26f88d35 wp-block-button&quot;]/div[@class=&quot;uagb-button__wrapper&quot;]/a[@class=&quot;uagb-buttons-repeater wp-block-button__link&quot;]/div[@class=&quot;uagb-button__link&quot;]</value>
+      <webElementGuid>86fa0db6-c1e5-4651-b029-7d3ad8855751</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-3678']/div/section/div/div/div/section/div[2]/div[4]/div/div/div/a/div</value>
+      <webElementGuid>1a85b526-cddd-41a0-8e3c-16e4383a94a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Best Stock Market Courses in India'])[1]/following::div[6]</value>
+      <webElementGuid>671c3331-bd27-458a-9fbe-a404e51a5897</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[2]/following::div[17]</value>
+      <webElementGuid>cc060293-7e6f-463a-a011-9923577c7224</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='L'])[1]/preceding::div[2]</value>
+      <webElementGuid>538447ee-2348-4b3b-b4a6-0c8164ac2c6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Followers'])[1]/preceding::div[3]</value>
+      <webElementGuid>18580090-ca63-4227-bf86-dae3a801d369</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Get Assistance']/parent::*</value>
+      <webElementGuid>35923a32-f54d-47b4-90c3-1bfa02d22f34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>76521068-c02f-4c70-a8c1-d6d26e0a0596</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Get Assistance' or . = 'Get Assistance')]</value>
+      <webElementGuid>0292b912-5f61-4520-b6da-0fe945f695fa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

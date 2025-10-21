@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_TCs_benefitTitle</name>
+   <tag></tag>
+   <elementGuidId>230aa8b2-8c40-4629-b761-ca111bfe4e12</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='SW']/div/div[2]/div[2]/div/div/div/div[2]/div/div[3]/ul/li[2]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(2) > div > p.benefitTitle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Book Hotels @ ₹0&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>a9f998ad-6815-4994-a99d-a8559b05ad78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>benefitTitle</value>
+      <webElementGuid>bdea20ed-53c8-4a51-8936-a4a9ad8c398e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>benefitTitle</value>
+      <webElementGuid>e66c9026-bd93-4e2b-92b5-34b41baa167c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Book Hotels @ ₹0</value>
+      <webElementGuid>2a63eb76-d381-45ff-b7ad-65ae093ce009</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SW&quot;)/div[@class=&quot;landingContainer eng&quot;]/div[@class=&quot;headerOuter&quot;]/div[@class=&quot;imageSliderModal modal displayBlock modalLogin dynHeight personal&quot;]/div[@class=&quot;imageSlideContainer&quot;]/div[1]/div[@class=&quot;loginSliderCompWrapper&quot;]/div[2]/div[@class=&quot;sliderItemWrapper active&quot;]/div[@class=&quot;sliderItemContent&quot;]/ul[@class=&quot;sliderItem-benefits&quot;]/li[2]/div[1]/p[@class=&quot;benefitTitle&quot;]</value>
+      <webElementGuid>c37c7ffc-7a98-43aa-b643-83eef673cca2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='SW']/div/div[2]/div[2]/div/div/div/div[2]/div/div[3]/ul/li[2]/div/p</value>
+      <webElementGuid>f3080806-00a5-49a4-ba91-2f5539a74ac7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='T&amp;Cs'])[1]/following::p[3]</value>
+      <webElementGuid>333f8316-42c8-46ea-bec7-f5185cab61e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Agreement'])[1]/following::p[3]</value>
+      <webElementGuid>d7a3d05b-f67f-4bf3-b4e9-1ab1b92eb978</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Limited time offer - 0 Joining Fee'])[1]/preceding::p[3]</value>
+      <webElementGuid>b67b789f-fc3a-4ae3-98e0-4ce168a1bbb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VIEW BENEFITS'])[1]/preceding::p[3]</value>
+      <webElementGuid>e829e408-82f7-4c5e-8d24-be987aaca5ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Book Hotels @ ₹0']/parent::*</value>
+      <webElementGuid>a1daeb62-ab96-4d4f-8561-139216138070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li[2]/div/p</value>
+      <webElementGuid>28197f80-ab92-4619-a673-5a600a023b5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Book Hotels @ ₹0' or . = 'Book Hotels @ ₹0')]</value>
+      <webElementGuid>215a5cf6-bc14-43a9-b2f8-51037823e26d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

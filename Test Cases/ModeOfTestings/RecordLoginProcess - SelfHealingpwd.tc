@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RecordLoginProcess - SelfHealingpwd</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>894faf8d-0f8e-49ce-984c-5c4bc5173e24</testCaseGuid>
+</TestCaseEntity>

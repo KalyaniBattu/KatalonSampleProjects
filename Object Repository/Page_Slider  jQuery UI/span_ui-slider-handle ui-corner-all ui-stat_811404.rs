@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ui-slider-handle ui-corner-all ui-stat_811404</name>
+   <tag></tag>
+   <elementGuidId>08fc8200-e1a4-4843-b41c-27f0ed0f564a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='slider']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-slider-handle.ui-corner-all.ui-state-default.ui-state-hover.ui-state-focus</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ccc41d3b-6357-4d38-82f2-f99c80c00e7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>834f245c-8f78-4d9e-9c87-ccb6da15430a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-slider-handle ui-corner-all ui-state-default ui-state-hover ui-state-focus</value>
+      <webElementGuid>ef3ba6e3-c4ac-45d6-9826-ebdc78e1b6e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slider&quot;)/span[@class=&quot;ui-slider-handle ui-corner-all ui-state-default ui-state-hover ui-state-focus&quot;]</value>
+      <webElementGuid>1c338d1f-8f66-4ae9-9de6-b402570f4133</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Slider  jQuery UI/iframe_Vertical slider_demo-frame</value>
+      <webElementGuid>3d9669f7-a771-435b-9a1f-a144ebf42572</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='slider']/span</value>
+      <webElementGuid>622b0d77-ff13-4fdd-b181-6cc63cb725fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>79a6a8d8-77f7-4f59-a60d-2d61fb4bd4ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

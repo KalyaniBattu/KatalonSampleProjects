@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_THEMES_site-nav__title</name>
+   <tag></tag>
+   <elementGuidId>a218bd2d-7b64-473f-83cf-0e0992b94f51</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='shopify-section-header']/header/div/div/div/div[2]/nav/ul/li[7]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;BRANDS&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>967af1aa-c36c-4b61-9698-c748af0cc884</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>site-nav__title</value>
+      <webElementGuid>9a4da512-428e-4247-a0bd-bc59aa95ba7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BRANDS</value>
+      <webElementGuid>54d8b150-f892-4b73-91c1-91aad502ddd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shopify-section-header&quot;)/header[@class=&quot;logo-center-navigation-center size-header-normal section-header site-header page-element is-moved-by-drawer 
+  header-none
+   
+   site-header--full 
+   index-header&quot;]/div[@class=&quot;header-bottom py-2 py-lg-0&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;d-flex row-header align-items-center&quot;]/div[@class=&quot;d-none d-lg-flex col-menu&quot;]/nav[@class=&quot;nav-bar d-none d-lg-block&quot;]/ul[@class=&quot;site-nav&quot;]/li[@class=&quot;site-nav__item&quot;]/a[@class=&quot;site-nav__link&quot;]/span[@class=&quot;site-nav__title&quot;]</value>
+      <webElementGuid>2f420d2b-2ffa-457b-81e4-b0276b347d71</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='shopify-section-header']/header/div/div/div/div[2]/nav/ul/li[7]/a/span</value>
+      <webElementGuid>0c630c1b-93ef-4a4d-86e4-5b9405c20f73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='THEMES'])[1]/following::span[1]</value>
+      <webElementGuid>c55ca4d3-3319-48b4-8a35-91989e41228e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DIY KITS'])[1]/following::span[2]</value>
+      <webElementGuid>656bddbe-00ab-4923-85c5-470ec961cdc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DRESS MY CRAFT'])[1]/preceding::span[1]</value>
+      <webElementGuid>e74f9862-519a-4fb1-a944-837931ec0034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HANDMADE'])[1]/preceding::span[2]</value>
+      <webElementGuid>6c2fadd9-da73-42b4-9dee-8237dbc3f620</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BRANDS']/parent::*</value>
+      <webElementGuid>dd868b62-8a10-40bd-b353-37d8023dba1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/a/span</value>
+      <webElementGuid>1d5d92d5-9271-48ae-b97d-a0c60bbe737d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'BRANDS' or . = 'BRANDS')]</value>
+      <webElementGuid>9f2a0eaa-7e43-460f-b5b1-66a0e1eb0d16</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1</name>
+   <tag></tag>
+   <elementGuidId>d30dd677-eb94-4afb-8069-db263dd10dd5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='common_header']/div/div[3]/nav/div/ul/li[4]/a/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;News&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>8effdf7b-5802-45a4-b915-b4a160632bbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>News</value>
+      <webElementGuid>5bba673c-7a49-427d-a572-bba80a5316a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;common_header&quot;)/div[@class=&quot;header_desktop header1024&quot;]/div[@class=&quot;bottom_nav&quot;]/nav[@class=&quot;navbg&quot;]/div[@class=&quot;main_header_wrapper navmenu clearfix PR&quot;]/ul[@class=&quot;clearfix main_nav&quot;]/li[@class=&quot;menu_l1  sub_nav&quot;]/a[1]/h1[1]</value>
+      <webElementGuid>7d916561-a8d8-4330-8bc2-1b63359ca1bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='common_header']/div/div[3]/nav/div/ul/li[4]/a/h1</value>
+      <webElementGuid>024ba5fd-121d-454b-8f81-2e1886e72521</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tools'])[1]/following::h1[1]</value>
+      <webElementGuid>fa653460-e4c9-4e0e-9986-c2f15d223891</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cryptocurrency News'])[1]/following::h1[1]</value>
+      <webElementGuid>41327bf8-d634-4979-83d1-9eabc5f413af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LATEST NEWS'])[1]/preceding::h1[1]</value>
+      <webElementGuid>bdfa8df7-e489-490e-b399-6df52cb016b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bihar Elections 2025'])[1]/preceding::h1[1]</value>
+      <webElementGuid>85fab03b-1038-4d76-897f-7d79e76c7a06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>4c3a47af-1ff5-4878-989d-d58b9656cf0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'News' or . = 'News')]</value>
+      <webElementGuid>43ca90bc-83eb-4729-aee3-b130ee89e496</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

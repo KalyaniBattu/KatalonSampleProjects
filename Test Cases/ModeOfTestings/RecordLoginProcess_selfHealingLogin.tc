@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RecordLoginProcess_selfHealingLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c8488cfe-8758-46f0-b750-01912d3c943c</testCaseGuid>
+</TestCaseEntity>

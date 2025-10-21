@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_(city name)_airport-option</name>
+   <tag></tag>
+   <elementGuidId>a64ca5f9-f32c-45a8-a7ef-07471dc9b131</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.airport-option</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='hotelForm']/div[3]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Mumbai - India&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d8da158d-4578-4451-ac83-d13035d93d87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>airport-option</value>
+      <webElementGuid>41ab6b37-7979-43b4-9e93-0184e65c9053</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mumbai - India</value>
+      <webElementGuid>d65afc04-dcb4-4ea4-9ea7-6c3a9f87aae1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hotelForm&quot;)/div[@class=&quot;formbold-input-flex&quot;]/div[1]/div[@class=&quot;airport-container&quot;]/div[@class=&quot;airport-list&quot;]/div[@class=&quot;airport-option&quot;]</value>
+      <webElementGuid>a6b70264-d6c1-4cf5-ac54-907363a8aabb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='hotelForm']/div[3]/div/div/div/div</value>
+      <webElementGuid>8ee8e8e3-cb98-4b8f-8956-3c91a274e404</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(city name)'])[1]/following::div[3]</value>
+      <webElementGuid>726a76ac-b9f0-43fe-af65-a0891a0262c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(to receive booking)'])[1]/preceding::div[1]</value>
+      <webElementGuid>e24dc90c-75f1-46e6-838a-4108ceabfe9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mumbai - India']/parent::*</value>
+      <webElementGuid>19f3decc-c291-462c-88d0-bb1dd88131ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div</value>
+      <webElementGuid>2671f50e-5f76-49b6-a541-74a5aed668ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Mumbai - India' or . = 'Mumbai - India')]</value>
+      <webElementGuid>831c62e5-fb89-4de5-b22b-375c8e7c0bcc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

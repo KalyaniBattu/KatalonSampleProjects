@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>b846ac0b-633d-49dd-bc05-0e898f3bce68</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[4]/div[2]/div/div/div/div[2]/div/div/div[2]/div/div[2]/div/div/div/div/div[2]/div/div/a/div/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Diamond Pendant&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Diamond Pendant&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>e5c14e0d-d68d-47f1-971f-2689efd722fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://www.joyalukkas.in/media/wysiwyg/DK_Dia_1_Pendant_S3.jpg</value>
+      <webElementGuid>da3746d4-ea20-4d9d-8a58-b731feca65dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Diamond Pendant</value>
+      <webElementGuid>9aa33c25-3196-40d5-ada5-4317618fc5ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-YLm bg-white relative text-colorDefault&quot;]/div[@class=&quot;main-page-hXb max-w-site mx-auto my-0&quot;]/div[2]/div[@class=&quot;homePage-homePage-tU5&quot;]/div[@class=&quot;cmsBlock-root-rsi m-xs&quot;]/div[@class=&quot;cmsBlock-content-BTy&quot;]/div[@class=&quot;richContent-root-Byp&quot;]/div[@class=&quot;row-fullBleed-Sqn row-root-rPq row-root-rPq shop_by_desktop&quot;]/div[@class=&quot;row-contained-PD6 row-root-rPq&quot;]/div[@class=&quot;columnGroup-root-JjC&quot;]/div[@class=&quot;columnLine-root-khs&quot;]/div[@class=&quot;column-root-INf pagebuilder-column&quot;]/div[@class=&quot;slider-root-X8u pagebuilder-slider&quot;]/div[@class=&quot;slick-slider slick-initialized&quot;]/div[@class=&quot;slick-list&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;slick-slide slick-active slick-current&quot;]/div[1]/div[@class=&quot;slider-bannerRoot-Dja banner-root-yeh&quot;]/a[@class=&quot;slider-bannerLink-mwQ banner-link-mau&quot;]/div[@class=&quot;slider-bannerWrapper-oXc banner-wrapper-RZt bannerWrapperCustom&quot;]/div[@class=&quot;slider-bannerPosterOverlay-8Sz banner-posterOverlay-Kr7 banner-overlay-vUl&quot;]/div[@class=&quot;banner-content-9ol&quot;]/img[1]</value>
+      <webElementGuid>d4ff6a31-d7af-407a-9985-76d49dfeacc5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[4]/div[2]/div/div/div/div[2]/div/div/div[2]/div/div[2]/div/div/div/div/div[2]/div/div/a/div/div/div/img</value>
+      <webElementGuid>b4de4faa-56c7-4e5e-8fc6-d01e25b84959</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Diamond Pendant']</value>
+      <webElementGuid>484d2afe-e230-4e3a-85f6-7f4e312297ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div/div/a/div/div/div/img</value>
+      <webElementGuid>385bc372-ea21-4693-9bb4-b0cc81965177</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://www.joyalukkas.in/media/wysiwyg/DK_Dia_1_Pendant_S3.jpg' and @alt = 'Diamond Pendant']</value>
+      <webElementGuid>a8a7939e-f956-465e-b20c-46337a01a11d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CheckRadiobutton - SelfHealing</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fd84ffa8-c60f-4887-b5df-7c6b3a7038b1</testCaseGuid>
+</TestCaseEntity>

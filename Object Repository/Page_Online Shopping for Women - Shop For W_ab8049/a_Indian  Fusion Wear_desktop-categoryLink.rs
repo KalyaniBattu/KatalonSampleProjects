@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Indian  Fusion Wear_desktop-categoryLink</name>
+   <tag></tag>
+   <elementGuidId>5a9b7851-2117-4c91-a747-f622e795155f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='desktop-header-cnt']/div[2]/nav/div/div[2]/div/div/div/div/li/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Kurtas &amp; Suits&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>94ef65a8-84de-45fd-a9b4-a91d7e0acdbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/women-kurtas-kurtis-suits</value>
+      <webElementGuid>5c6fd5c4-cca4-41ce-bb47-ad027ea355f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>desktop-categoryLink</value>
+      <webElementGuid>bfd431d8-e220-4d68-8dcb-78297af3fdb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-reactid</name>
+      <type>Main</type>
+      <value>190</value>
+      <webElementGuid>5faeba8d-b81c-4e4c-91b7-8fb5252a0bcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kurtas &amp; Suits</value>
+      <webElementGuid>f7c91749-c893-48b5-a8d4-16bc990d51d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;desktop-header-cnt&quot;)/div[@class=&quot;desktop-bound&quot;]/nav[@class=&quot;desktop-navbar&quot;]/div[@class=&quot;desktop-navLinks&quot;]/div[@class=&quot;desktop-navContent&quot;]/div[@class=&quot;desktop-navLink&quot;]/div[@class=&quot;desktop-backdropStyle&quot;]/div[@class=&quot;desktop-paneContent&quot;]/div[@class=&quot;desktop-categoryContainer&quot;]/li[@class=&quot;desktop-oddColumnContent&quot;]/ul[@class=&quot;desktop-navBlock&quot;]/li[2]/a[@class=&quot;desktop-categoryLink&quot;]</value>
+      <webElementGuid>868f6eff-0a3c-4466-b09f-e3fd44024fdd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='desktop-header-cnt']/div[2]/nav/div/div[2]/div/div/div/div/li/ul/li[2]/a</value>
+      <webElementGuid>8cbd145b-d79f-4ee0-b223-2da21537ba3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Kurtas &amp; Suits')]</value>
+      <webElementGuid>3e9ab219-e484-4de4-8c12-96ae3cdba907</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indian &amp; Fusion Wear'])[1]/following::a[1]</value>
+      <webElementGuid>98312366-384c-4b2b-b724-0c67820a80fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Women'])[1]/following::a[2]</value>
+      <webElementGuid>bafb7d5d-c3c4-434e-bdd6-0ffd796b96f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kurtis, Tunics &amp; Tops'])[1]/preceding::a[1]</value>
+      <webElementGuid>9aeae310-c5d9-45fa-8b51-3d90c08562b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sarees'])[1]/preceding::a[2]</value>
+      <webElementGuid>bb1e676e-d841-40ef-80b6-270b7f922a87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kurtas &amp; Suits']/parent::*</value>
+      <webElementGuid>f5dc557d-e8f6-4f22-90a3-bf063ee8b96c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/women-kurtas-kurtis-suits')]</value>
+      <webElementGuid>7ee3608c-9020-489f-9871-49bec338d837</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/li/ul/li[2]/a</value>
+      <webElementGuid>f8dc49da-14cc-4f5e-beaa-1361b152c469</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/women-kurtas-kurtis-suits' and (text() = 'Kurtas &amp; Suits' or . = 'Kurtas &amp; Suits')]</value>
+      <webElementGuid>830c0333-665a-4222-ac24-2662b5fb59d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
